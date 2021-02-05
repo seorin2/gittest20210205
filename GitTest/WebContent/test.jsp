@@ -9,10 +9,8 @@
 <body>
 test.jsp
 eclipse test1.jsp
-<<<<<<< HEAD
 
-=======
-    #github update
->>>>>>> branch 'master' of https://github.com/seorin2/gittest20210205.git
+#github update
+github test1
 </body>
 </html>
